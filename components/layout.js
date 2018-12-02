@@ -34,6 +34,7 @@ export default (props) => <div style={{maxWidth: '90%', width: '700px', margin: 
 
       color: #333;
       font-size: 18px;
+      font-weight: 300;
     }
     @keyframes fadein {
         0% {opacity:0;}
