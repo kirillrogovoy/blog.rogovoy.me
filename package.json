@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "publish": "next build && next export && git add out && git commit -m 'Publish' && git subtree push --prefix dist origin gh-pages"
+    "publish": "next build && next export && git add out && git commit -m 'Publish' && git subtree push --prefix out origin gh-pages"
   },
   "repository": {
     "type": "git",
