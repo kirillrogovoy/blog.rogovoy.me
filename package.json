@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "publish": "next build && next export && git add out && git commit -m 'Publish' && git subtree push --prefix dist origin gh-pages"
   },
   "repository": {
     "type": "git",
