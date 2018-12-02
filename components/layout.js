@@ -24,7 +24,7 @@ export default (props) => <div style={{maxWidth: '90%', width: '700px', margin: 
               </a>
         </h1>
       </Link>
-      <h4 style={{display: 'block', margin: '0 auto', textAlign: 'center', fontSize: '18px', fontWeight: 'normal'}}>
+      <h4 style={{display: 'block', margin: '0 auto', textAlign: 'center', fontSize: '18px', fontWeight: '300'}}>
         О жизни, путешествиях, работе и личном росте
       </h4>
   </header>
