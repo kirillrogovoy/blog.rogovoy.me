@@ -26,7 +26,7 @@ export function renderPost(id, content) {
 }
 
 export function getAllPosts() {
-  return return posts.filter(post => !post.isDraft)
+  return posts.filter(post => !post.isDraft)
 }
 
 export function getRandomPosts(number) {
