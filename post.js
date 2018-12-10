@@ -16,6 +16,7 @@ export const posts = [
     description: 'Почему работать сидя – вредно и какие есть решения проблемы',
     tags: [],
     fbLink: '#',
+    isDraft: true,
   },
 ]
 
@@ -24,8 +25,12 @@ export function renderPost(id, content) {
   return <Post meta={meta} content={content} />
 }
 
+export function getAllPosts() {
+  return return posts.filter(post => !post.isDraft)
+}
+
 export function getRandomPosts(number) {
-  return shuffle(posts).slice(0, 3)
+  return shuffle(getAllPosts()).slice(0, number)
 }
 
 function shuffle(b) {
