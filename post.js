@@ -10,12 +10,12 @@ export const posts = [
     fbLink: 'http://example.com',
   },
   {
-    id: 'chem-ukraina',
-    date: '03.11.2018',
-    title: 'Chem Ukraina',
-    description: 'Chem i pochemu',
-    tags: ['a', 'b'],
-    fbLink: 'http://example.com',
+    id: 'rabota-za-kompiuterom-stoya',
+    date: '05.12.2018',
+    title: 'Работать за компьютером стоя: зачем и как',
+    description: 'Почему работать сидя – вредно и какие есть решения проблемы',
+    tags: [],
+    fbLink: '#',
   },
 ]
 
