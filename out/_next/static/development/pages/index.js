@@ -77,7 +77,7 @@ var _jsxFileName = "/Users/kirillrogovoy/Projects/blog.rogovoy.me/components/lay
       width: '700px',
       margin: 'auto'
     },
-    className: "jsx-162123978",
+    className: "jsx-2870783592",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 7
@@ -103,11 +103,11 @@ var _jsxFileName = "/Users/kirillrogovoy/Projects/blog.rogovoy.me/components/lay
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("header", {
     style: {
-      padding: '50px 0 0',
+      padding: '0',
       maxWidth: '90%',
       margin: 'auto'
     },
-    className: "jsx-162123978",
+    className: "jsx-2870783592",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 12
@@ -120,15 +120,16 @@ var _jsxFileName = "/Users/kirillrogovoy/Projects/blog.rogovoy.me/components/lay
       lineNumber: 13
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("h1", {
+  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("span", {
     style: {
       textAlign: 'center',
-      marginLeft: '27px',
-      marginBottom: '6px',
+      display: 'block',
+      margin: '50px 0 5px 39px',
       cursor: 'pointer',
-      fontSize: '40px'
+      fontSize: '50px',
+      fontWeight: '300'
     },
-    className: "jsx-162123978",
+    className: "jsx-2870783592",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 14
@@ -137,19 +138,19 @@ var _jsxFileName = "/Users/kirillrogovoy/Projects/blog.rogovoy.me/components/lay
   }, "\u041A\u0438\u0440\u0438\u043B\u043B \u0420\u043E\u0433\u043E\u0432\u043E\u0439", react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
     target: "_blank",
     href: "https://www.facebook.com/profile.php?id=100013869703829",
-    className: "jsx-162123978",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 22
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(FbSvg, {
+    className: "jsx-2870783592",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 23
     },
     __self: this
-  })))), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("h4", {
+  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(FbSvg, {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 24
+    },
+    __self: this
+  })))), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("span", {
     style: {
       display: 'block',
       margin: '0 auto',
@@ -157,37 +158,37 @@ var _jsxFileName = "/Users/kirillrogovoy/Projects/blog.rogovoy.me/components/lay
       fontSize: '18px',
       fontWeight: '300'
     },
-    className: "jsx-162123978",
+    className: "jsx-2870783592",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 27
+      lineNumber: 28
     },
     __self: this
   }, "\u041E \u0436\u0438\u0437\u043D\u0438, \u043F\u0443\u0442\u0435\u0448\u0435\u0441\u0442\u0432\u0438\u044F\u0445, \u0440\u0430\u0431\u043E\u0442\u0435 \u0438 \u043B\u0438\u0447\u043D\u043E\u043C \u0440\u043E\u0441\u0442\u0435")), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_separator__WEBPACK_IMPORTED_MODULE_5__[/* default */ "a"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 32
+      lineNumber: 39
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("main", {
-    className: "jsx-162123978",
+    className: "jsx-2870783592",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 34
+      lineNumber: 41
     },
     __self: this
   }, props.children), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
-    styleId: "162123978",
-    css: "@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,700');body{font-family:'Open Sans',sans-serif;-webkit-animation :fadein 0.5s linear;animation :fadein 0.5s linear;color:#333;font-size:18px;font-weight:300;}@-webkit-keyframes fadein{0%{opacity:0;}100%{opacity:1;}}@keyframes fadein{0%{opacity:0;}100%{opacity:1;}}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9raXJpbGxyb2dvdm95L1Byb2plY3RzL2Jsb2cucm9nb3ZveS5tZS9jb21wb25lbnRzL2xheW91dC5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFxQ3FCLEFBRytFLEFBQ3BDLEFBUXRCLEFBQ0UsVUFERCxBQUNFLHlCQVJvQixvRUFFMUIsV0FDSSxlQUNDLGdCQUNsQiIsImZpbGUiOiIvVXNlcnMva2lyaWxscm9nb3ZveS9Qcm9qZWN0cy9ibG9nLnJvZ292b3kubWUvY29tcG9uZW50cy9sYXlvdXQuanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgTGluayBmcm9tICduZXh0L2xpbmsnXG5pbXBvcnQgSGVhZCBmcm9tICduZXh0L2hlYWQnXG5pbXBvcnQgTm9ybWFsaXplIGZyb20gJy4vbm9ybWFsaXplJ1xuaW1wb3J0IFNlcGFyYXRvciBmcm9tICcuL3NlcGFyYXRvcidcbmltcG9ydCBHb29nbGVBbmFseXRpY3MgZnJvbSAnLi9nb29nbGUtYW5hbHl0aWNzJ1xuXG5leHBvcnQgZGVmYXVsdCAocHJvcHMpID0+IDxkaXYgc3R5bGU9e3ttYXhXaWR0aDogJzkwJScsIHdpZHRoOiAnNzAwcHgnLCBtYXJnaW46ICdhdXRvJ319PlxuICA8SGVhZD5cbiAgICA8R29vZ2xlQW5hbHl0aWNzIC8+XG4gIDwvSGVhZD5cbiAgPE5vcm1hbGl6ZSAvPlxuICA8aGVhZGVyIHN0eWxlPXt7cGFkZGluZzogJzUwcHggMCAwJywgbWF4V2lkdGg6ICc5MCUnLCBtYXJnaW46ICdhdXRvJ319PlxuICAgICAgPExpbmsgaHJlZj1cIi9cIj5cbiAgICAgICAgPGgxIHN0eWxlPXt7XG4gICAgICAgICAgdGV4dEFsaWduOiAnY2VudGVyJyxcbiAgICAgICAgICBtYXJnaW5MZWZ0OiAnMjdweCcsXG4gICAgICAgICAgbWFyZ2luQm90dG9tOiAnNnB4JyxcbiAgICAgICAgICBjdXJzb3I6ICdwb2ludGVyJyxcbiAgICAgICAgICBmb250U2l6ZTogJzQwcHgnLFxuICAgICAgICB9fT5cbiAgICAgICAgICAgINCa0LjRgNC40LvQuyDQoNC+0LPQvtCy0L7QuVxuICAgICAgICAgICAgICA8YSB0YXJnZXQ9XCJfYmxhbmtcIiBocmVmPVwiaHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3Byb2ZpbGUucGhwP2lkPTEwMDAxMzg2OTcwMzgyOVwiPlxuICAgICAgICAgICAgICAgIDxGYlN2ZyAvPlxuICAgICAgICAgICAgICA8L2E+XG4gICAgICAgIDwvaDE+XG4gICAgICA8L0xpbms+XG4gICAgICA8aDQgc3R5bGU9e3tkaXNwbGF5OiAnYmxvY2snLCBtYXJnaW46ICcwIGF1dG8nLCB0ZXh0QWxpZ246ICdjZW50ZXInLCBmb250U2l6ZTogJzE4cHgnLCBmb250V2VpZ2h0OiAnMzAwJ319PlxuICAgICAgICDQniDQttC40LfQvdC4LCDQv9GD0YLQtdGI0LXRgdGC0LLQuNGP0YUsINGA0LDQsdC+0YLQtSDQuCDQu9C40YfQvdC+0Lwg0YDQvtGB0YLQtVxuICAgICAgPC9oND5cbiAgPC9oZWFkZXI+XG5cbiAgPFNlcGFyYXRvciAvPlxuXG4gIDxtYWluPlxuICAgIHtwcm9wcy5jaGlsZHJlbn1cbiAgPC9tYWluPlxuXG4gIDxzdHlsZSBqc3ggZ2xvYmFsPntgXG4gICAgYm9keSB7XG4gICAgICBAaW1wb3J0IHVybCgnaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3M/ZmFtaWx5PU9wZW4rU2FuczozMDAsNzAwJyk7XG4gICAgICBmb250LWZhbWlseTogJ09wZW4gU2FucycsIHNhbnMtc2VyaWY7XG4gICAgICBhbmltYXRpb24gICAgICAgIDogZmFkZWluIDAuNXMgbGluZWFyO1xuXG4gICAgICBjb2xvcjogIzMzMztcbiAgICAgIGZvbnQtc2l6ZTogMThweDtcbiAgICAgIGZvbnQtd2VpZ2h0OiAzMDA7XG4gICAgfVxuICAgIEBrZXlmcmFtZXMgZmFkZWluIHtcbiAgICAgICAgMCUge29wYWNpdHk6MDt9XG4gICAgICAgIDEwMCUge29wYWNpdHk6MTt9XG4gICAgfVxuICBgfTwvc3R5bGU+XG48L2Rpdj5cblxuZnVuY3Rpb24gRmJTdmcoKSB7XG4gIGNvbnN0IHN0eWxlID0ge1xuICAgIHdpZHRoOiAnMjRweCcsXG4gICAgbWFyZ2luTGVmdDogJzhweCcsXG4gICAgbWFyZ2luQm90dG9tOiAnMTJweCcsXG4gICAgZW5hYmxlQmFja2dyb3VuZDogJ25ldyAwIDAgNDA4Ljc4OCA0MDguNzg4JyxcbiAgfVxuXG4gIHJldHVybiA8c3ZnIHZlcnNpb249XCIxLjFcIiBpZD1cIkxheWVyXzFcIiB4PVwiMHB4XCIgeT1cIjBweFwiIHN0eWxlPXtzdHlsZX0gdmlld0JveD1cIjAgMCA0MDguNzg4IDQwOC43ODhcIj4gPHBhdGggc3R5bGU9e3tmaWxsOiAnIzQ3NTk5Myd9fSBkPVwiTTM1My43MDEsMEg1NS4wODdDMjQuNjY1LDAsMC4wMDIsMjQuNjYyLDAuMDAyLDU1LjA4NXYyOTguNjE2YzAsMzAuNDIzLDI0LjY2Miw1NS4wODUsNTUuMDg1LDU1LjA4NSBoMTQ3LjI3NWwwLjI1MS0xNDYuMDc4aC0zNy45NTFjLTQuOTMyLDAtOC45MzUtMy45ODgtOC45NTQtOC45MmwtMC4xODItNDcuMDg3Yy0wLjAxOS00Ljk1OSwzLjk5Ni04Ljk4OSw4Ljk1NS04Ljk4OWgzNy44ODIgdi00NS40OThjMC01Mi44LDMyLjI0Ny04MS41NSw3OS4zNDgtODEuNTVoMzguNjVjNC45NDUsMCw4Ljk1NSw0LjAwOSw4Ljk1NSw4Ljk1NXYzOS43MDRjMCw0Ljk0NC00LjAwNyw4Ljk1Mi04Ljk1LDguOTU1IGwtMjMuNzE5LDAuMDExYy0yNS42MTUsMC0zMC41NzUsMTIuMTcyLTMwLjU3NSwzMC4wMzV2MzkuMzg5aDU2LjI4NWM1LjM2MywwLDkuNTI0LDQuNjgzLDguODkyLDEwLjAwOWwtNS41ODEsNDcuMDg3IGMtMC41MzQsNC41MDYtNC4zNTUsNy45MDEtOC44OTIsNy45MDFoLTUwLjQ1M2wtMC4yNTEsMTQ2LjA3OGg4Ny42MzFjMzAuNDIyLDAsNTUuMDg0LTI0LjY2Miw1NS4wODQtNTUuMDg0VjU1LjA4NSBDNDA4Ljc4NiwyNC42NjIsMzg0LjEyNCwwLDM1My43MDEsMHpcIi8+IDxnPiA8L2c+IDxnPiA8L2c+IDxnPiA8L2c+IDxnPiA8L2c+IDxnPiA8L2c+IDxnPiA8L2c+IDxnPiA8L2c+IDxnPiA8L2c+IDxnPiA8L2c+IDxnPiA8L2c+IDxnPiA8L2c+IDxnPiA8L2c+IDxnPiA8L2c+IDxnPiA8L2c+IDxnPiA8L2c+IDwvc3ZnPlxufVxuIl19 */\n/*@ sourceURL=/Users/kirillrogovoy/Projects/blog.rogovoy.me/components/layout.js */",
+    styleId: "2870783592",
+    css: "@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,700&subset=cyrillic');body{font-family:'Open Sans',sans-serif;-webkit-animation :fadein 0.5s linear;animation :fadein 0.5s linear;color:#333;font-size:18px;font-weight:300;}a{-webkit-text-decoration:none;text-decoration:none;font-weight:bold;color:#d07070;}a:hover{color:#f08080;}a:visited{color:#bbb;}@-webkit-keyframes fadein{0%{opacity:0;}100%{opacity:1;}}@keyframes fadein{0%{opacity:0;}100%{opacity:1;}}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9raXJpbGxyb2dvdm95L1Byb2plY3RzL2Jsb2cucm9nb3ZveS5tZS9jb21wb25lbnRzL2xheW91dC5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUE0Q3FCLEFBRytGLEFBQ3BELEFBUWYsQUFLUCxBQUdILEFBR0csQUFDRSxVQURELEFBQ0UsQ0FIcEIsR0FIQyxxQkFidUMsZUFRcEIsaUJBQ0gsY0FDaEIsc0JBUmEsV0FDSSxlQUNDLGdCQUNsQiIsImZpbGUiOiIvVXNlcnMva2lyaWxscm9nb3ZveS9Qcm9qZWN0cy9ibG9nLnJvZ292b3kubWUvY29tcG9uZW50cy9sYXlvdXQuanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgTGluayBmcm9tICduZXh0L2xpbmsnXG5pbXBvcnQgSGVhZCBmcm9tICduZXh0L2hlYWQnXG5pbXBvcnQgTm9ybWFsaXplIGZyb20gJy4vbm9ybWFsaXplJ1xuaW1wb3J0IFNlcGFyYXRvciBmcm9tICcuL3NlcGFyYXRvcidcbmltcG9ydCBHb29nbGVBbmFseXRpY3MgZnJvbSAnLi9nb29nbGUtYW5hbHl0aWNzJ1xuXG5leHBvcnQgZGVmYXVsdCAocHJvcHMpID0+IDxkaXYgc3R5bGU9e3ttYXhXaWR0aDogJzkwJScsIHdpZHRoOiAnNzAwcHgnLCBtYXJnaW46ICdhdXRvJ319PlxuICA8SGVhZD5cbiAgICA8R29vZ2xlQW5hbHl0aWNzIC8+XG4gIDwvSGVhZD5cbiAgPE5vcm1hbGl6ZSAvPlxuICA8aGVhZGVyIHN0eWxlPXt7cGFkZGluZzogJzAnLCBtYXhXaWR0aDogJzkwJScsIG1hcmdpbjogJ2F1dG8nfX0+XG4gICAgICA8TGluayBocmVmPVwiL1wiPlxuICAgICAgICA8c3BhbiBzdHlsZT17e1xuICAgICAgICAgIHRleHRBbGlnbjogJ2NlbnRlcicsXG4gICAgICAgICAgZGlzcGxheTogJ2Jsb2NrJyxcbiAgICAgICAgICBtYXJnaW46ICc1MHB4IDAgNXB4IDM5cHgnLFxuICAgICAgICAgIGN1cnNvcjogJ3BvaW50ZXInLFxuICAgICAgICAgIGZvbnRTaXplOiAnNTBweCcsXG4gICAgICAgICAgZm9udFdlaWdodDogJzMwMCcsXG4gICAgICAgIH19PlxuICAgICAgICAgICAg0JrQuNGA0LjQu9C7INCg0L7Qs9C+0LLQvtC5XG4gICAgICAgICAgICAgIDxhIHRhcmdldD1cIl9ibGFua1wiIGhyZWY9XCJodHRwczovL3d3dy5mYWNlYm9vay5jb20vcHJvZmlsZS5waHA/aWQ9MTAwMDEzODY5NzAzODI5XCI+XG4gICAgICAgICAgICAgICAgPEZiU3ZnIC8+XG4gICAgICAgICAgICAgIDwvYT5cbiAgICAgICAgPC9zcGFuPlxuICAgICAgPC9MaW5rPlxuICAgICAgPHNwYW4gc3R5bGU9e3tcbiAgICAgICAgZGlzcGxheTogJ2Jsb2NrJyxcbiAgICAgICAgbWFyZ2luOiAnMCBhdXRvJyxcbiAgICAgICAgdGV4dEFsaWduOiAnY2VudGVyJyxcbiAgICAgICAgZm9udFNpemU6ICcxOHB4JyxcbiAgICAgICAgZm9udFdlaWdodDogJzMwMCdcbiAgICAgIH19PlxuICAgICAgICDQniDQttC40LfQvdC4LCDQv9GD0YLQtdGI0LXRgdGC0LLQuNGP0YUsINGA0LDQsdC+0YLQtSDQuCDQu9C40YfQvdC+0Lwg0YDQvtGB0YLQtVxuICAgICAgPC9zcGFuPlxuICA8L2hlYWRlcj5cblxuICA8U2VwYXJhdG9yIC8+XG5cbiAgPG1haW4+XG4gICAge3Byb3BzLmNoaWxkcmVufVxuICA8L21haW4+XG5cbiAgPHN0eWxlIGpzeCBnbG9iYWw+e2BcbiAgICBib2R5IHtcbiAgICAgIEBpbXBvcnQgdXJsKCdodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2Nzcz9mYW1pbHk9T3BlbitTYW5zOjMwMCw3MDAmc3Vic2V0PWN5cmlsbGljJyk7XG4gICAgICBmb250LWZhbWlseTogJ09wZW4gU2FucycsIHNhbnMtc2VyaWY7XG4gICAgICBhbmltYXRpb24gICAgICAgIDogZmFkZWluIDAuNXMgbGluZWFyO1xuXG4gICAgICBjb2xvcjogIzMzMztcbiAgICAgIGZvbnQtc2l6ZTogMThweDtcbiAgICAgIGZvbnQtd2VpZ2h0OiAzMDA7XG4gICAgfVxuICAgIGEge1xuICAgICAgdGV4dC1kZWNvcmF0aW9uOiBub25lO1xuICAgICAgZm9udC13ZWlnaHQ6IGJvbGQ7XG4gICAgICBjb2xvcjogI2QwNzA3MDtcbiAgICB9XG4gICAgYTpob3ZlciB7XG4gICAgICBjb2xvcjogI2YwODA4MDtcbiAgICB9XG4gICAgYTp2aXNpdGVkIHtcbiAgICAgIGNvbG9yOiAjYmJiO1xuICAgfVxuICAgIEBrZXlmcmFtZXMgZmFkZWluIHtcbiAgICAgICAgMCUge29wYWNpdHk6MDt9XG4gICAgICAgIDEwMCUge29wYWNpdHk6MTt9XG4gICAgfVxuICBgfTwvc3R5bGU+XG48L2Rpdj5cblxuZnVuY3Rpb24gRmJTdmcoKSB7XG4gIGNvbnN0IHN0eWxlID0ge1xuICAgIHdpZHRoOiAnMzBweCcsXG4gICAgbWFyZ2luTGVmdDogJzlweCcsXG4gICAgbWFyZ2luQm90dG9tOiAnMThweCcsXG4gICAgZW5hYmxlQmFja2dyb3VuZDogJ25ldyAwIDAgNDA4Ljc4OCA0MDguNzg4JyxcbiAgfVxuXG4gIHJldHVybiA8c3ZnIHZlcnNpb249XCIxLjFcIiBpZD1cIkxheWVyXzFcIiB4PVwiMHB4XCIgeT1cIjBweFwiIHN0eWxlPXtzdHlsZX0gdmlld0JveD1cIjAgMCA0MDguNzg4IDQwOC43ODhcIj4gPHBhdGggc3R5bGU9e3tmaWxsOiAnIzQ3NTk5Myd9fSBkPVwiTTM1My43MDEsMEg1NS4wODdDMjQuNjY1LDAsMC4wMDIsMjQuNjYyLDAuMDAyLDU1LjA4NXYyOTguNjE2YzAsMzAuNDIzLDI0LjY2Miw1NS4wODUsNTUuMDg1LDU1LjA4NSBoMTQ3LjI3NWwwLjI1MS0xNDYuMDc4aC0zNy45NTFjLTQuOTMyLDAtOC45MzUtMy45ODgtOC45NTQtOC45MmwtMC4xODItNDcuMDg3Yy0wLjAxOS00Ljk1OSwzLjk5Ni04Ljk4OSw4Ljk1NS04Ljk4OWgzNy44ODIgdi00NS40OThjMC01Mi44LDMyLjI0Ny04MS41NSw3OS4zNDgtODEuNTVoMzguNjVjNC45NDUsMCw4Ljk1NSw0LjAwOSw4Ljk1NSw4Ljk1NXYzOS43MDRjMCw0Ljk0NC00LjAwNyw4Ljk1Mi04Ljk1LDguOTU1IGwtMjMuNzE5LDAuMDExYy0yNS42MTUsMC0zMC41NzUsMTIuMTcyLTMwLjU3NSwzMC4wMzV2MzkuMzg5aDU2LjI4NWM1LjM2MywwLDkuNTI0LDQuNjgzLDguODkyLDEwLjAwOWwtNS41ODEsNDcuMDg3IGMtMC41MzQsNC41MDYtNC4zNTUsNy45MDEtOC44OTIsNy45MDFoLTUwLjQ1M2wtMC4yNTEsMTQ2LjA3OGg4Ny42MzFjMzAuNDIyLDAsNTUuMDg0LTI0LjY2Miw1NS4wODQtNTUuMDg0VjU1LjA4NSBDNDA4Ljc4NiwyNC42NjIsMzg0LjEyNCwwLDM1My43MDEsMHpcIi8+IDxnPiA8L2c+IDxnPiA8L2c+IDxnPiA8L2c+IDxnPiA8L2c+IDxnPiA8L2c+IDxnPiA8L2c+IDxnPiA8L2c+IDxnPiA8L2c+IDxnPiA8L2c+IDxnPiA8L2c+IDxnPiA8L2c+IDxnPiA8L2c+IDxnPiA8L2c+IDxnPiA8L2c+IDxnPiA8L2c+IDwvc3ZnPlxufVxuIl19 */\n/*@ sourceURL=/Users/kirillrogovoy/Projects/blog.rogovoy.me/components/layout.js */",
     __self: this
   }));
 });
 
 function FbSvg() {
   var style = {
-    width: '24px',
-    marginLeft: '8px',
-    marginBottom: '12px',
+    width: '30px',
+    marginLeft: '9px',
+    marginBottom: '18px',
     enableBackground: 'new 0 0 408.788 408.788'
   };
   return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("svg", {
@@ -199,7 +200,7 @@ function FbSvg() {
     viewBox: "0 0 408.788 408.788",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 63
+      lineNumber: 81
     },
     __self: this
   }, " ", react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("path", {
@@ -209,97 +210,97 @@ function FbSvg() {
     d: "M353.701,0H55.087C24.665,0,0.002,24.662,0.002,55.085v298.616c0,30.423,24.662,55.085,55.085,55.085 h147.275l0.251-146.078h-37.951c-4.932,0-8.935-3.988-8.954-8.92l-0.182-47.087c-0.019-4.959,3.996-8.989,8.955-8.989h37.882 v-45.498c0-52.8,32.247-81.55,79.348-81.55h38.65c4.945,0,8.955,4.009,8.955,8.955v39.704c0,4.944-4.007,8.952-8.95,8.955 l-23.719,0.011c-25.615,0-30.575,12.172-30.575,30.035v39.389h56.285c5.363,0,9.524,4.683,8.892,10.009l-5.581,47.087 c-0.534,4.506-4.355,7.901-8.892,7.901h-50.453l-0.251,146.078h87.631c30.422,0,55.084-24.662,55.084-55.084V55.085 C408.786,24.662,384.124,0,353.701,0z",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 63
+      lineNumber: 81
     },
     __self: this
   }), " ", react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("g", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 63
+      lineNumber: 81
     },
     __self: this
   }, " "), " ", react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("g", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 63
+      lineNumber: 81
     },
     __self: this
   }, " "), " ", react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("g", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 63
+      lineNumber: 81
     },
     __self: this
   }, " "), " ", react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("g", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 63
+      lineNumber: 81
     },
     __self: this
   }, " "), " ", react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("g", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 63
+      lineNumber: 81
     },
     __self: this
   }, " "), " ", react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("g", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 63
+      lineNumber: 81
     },
     __self: this
   }, " "), " ", react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("g", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 63
+      lineNumber: 81
     },
     __self: this
   }, " "), " ", react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("g", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 63
+      lineNumber: 81
     },
     __self: this
   }, " "), " ", react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("g", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 63
+      lineNumber: 81
     },
     __self: this
   }, " "), " ", react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("g", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 63
+      lineNumber: 81
     },
     __self: this
   }, " "), " ", react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("g", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 63
+      lineNumber: 81
     },
     __self: this
   }, " "), " ", react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("g", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 63
+      lineNumber: 81
     },
     __self: this
   }, " "), " ", react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("g", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 63
+      lineNumber: 81
     },
     __self: this
   }, " "), " ", react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("g", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 63
+      lineNumber: 81
     },
     __self: this
   }, " "), " ", react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("g", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 63
+      lineNumber: 81
     },
     __self: this
   }, " "), " ");
@@ -358,14 +359,14 @@ var _jsxFileName = "/Users/kirillrogovoy/Projects/blog.rogovoy.me/components/pos
     style: {
       margin: '0 auto'
     },
-    className: "jsx-1530548994",
+    className: "jsx-1396706753",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 3
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("ul", {
-    className: "jsx-1530548994",
+    className: "jsx-1396706753",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 4
@@ -375,9 +376,10 @@ var _jsxFileName = "/Users/kirillrogovoy/Projects/blog.rogovoy.me/components/pos
     return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("li", {
       key: post.id,
       style: {
-        marginBottom: '30px'
+        marginBottom: '30px',
+        listStyleType: 'square'
       },
-      className: "jsx-1530548994",
+      className: "jsx-1396706753",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 6
@@ -391,21 +393,21 @@ var _jsxFileName = "/Users/kirillrogovoy/Projects/blog.rogovoy.me/components/pos
       },
       __self: this
     }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
-      className: "jsx-1530548994" + " " + "postLink",
+      className: "jsx-1396706753" + " " + "postLink",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 8
       },
       __self: this
     }, post.title)), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("span", {
-      className: "jsx-1530548994" + " " + "postInfo",
+      className: "jsx-1396706753" + " " + "postInfo",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 10
       },
       __self: this
     }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("span", {
-      className: "jsx-1530548994",
+      className: "jsx-1396706753",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 11
@@ -413,21 +415,21 @@ var _jsxFileName = "/Users/kirillrogovoy/Projects/blog.rogovoy.me/components/pos
       __self: this
     }, " \u2014 "), post.date, ", ", react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
       href: post.fbLink,
-      className: "jsx-1530548994",
+      className: "jsx-1396706753",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 12
       },
       __self: this
     }, "\u043E\u0431\u0441\u0443\u0436\u0434\u0435\u043D\u0438\u0435 \u0432 Facebook")), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("br", {
-      className: "jsx-1530548994",
+      className: "jsx-1396706753",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 14
       },
       __self: this
     }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("span", {
-      className: "jsx-1530548994" + " " + "description",
+      className: "jsx-1396706753" + " " + "description",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 15
@@ -435,8 +437,8 @@ var _jsxFileName = "/Users/kirillrogovoy/Projects/blog.rogovoy.me/components/pos
       __self: this
     }, post.description));
   })), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
-    styleId: "1530548994",
-    css: "li.jsx-1530548994{font-size:20px;}a.jsx-1530548994{-webkit-text-decoration:none;text-decoration:none;font-weight:bold;color:#d07070;}a.jsx-1530548994:hover{color:#f08080;}a.jsx-1530548994:visited{color:#bbb;}.postInfo.jsx-1530548994{font-size:14px;}.postInfo.jsx-1530548994 a.jsx-1530548994{font-weight:normal;}.description.jsx-1530548994{margin-top:5px;font-size:14px;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9raXJpbGxyb2dvdm95L1Byb2plY3RzL2Jsb2cucm9nb3ZveS5tZS9jb21wb25lbnRzL3Bvc3QtbGlzdC5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFrQmMsQUFHc0IsQUFHTSxBQUtQLEFBR0gsQUFHTSxBQUdFLEFBR0YsV0FScEIsR0FIQyxDQVJBLEFBY0EsQUFNbUIsSUFIbkIsV0FJQSxvQkFsQm1CLGlCQUNILGNBQ2hCIiwiZmlsZSI6Ii9Vc2Vycy9raXJpbGxyb2dvdm95L1Byb2plY3RzL2Jsb2cucm9nb3ZveS5tZS9jb21wb25lbnRzL3Bvc3QtbGlzdC5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBMaW5rIGZyb20gJ25leHQvbGluaydcblxuZXhwb3J0IGRlZmF1bHQgKHsgcG9zdHMgfSkgPT4gPGRpdiBzdHlsZT17e21hcmdpbjogJzAgYXV0byd9fT5cbiAgPHVsPlxuICAgICAge3Bvc3RzLm1hcChwb3N0ID0+IChcbiAgICAgICAgPGxpIGtleT17cG9zdC5pZH0gc3R5bGU9e3ttYXJnaW5Cb3R0b206ICczMHB4J319PlxuICAgICAgICAgICAgPExpbmsgaHJlZj17YC8ke3Bvc3QuaWR9YH0+XG4gICAgICAgICAgICAgIDxhIGNsYXNzTmFtZT1cInBvc3RMaW5rXCI+e3Bvc3QudGl0bGV9PC9hPlxuICAgICAgICAgICAgPC9MaW5rPlxuICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPVwicG9zdEluZm9cIj5cbiAgICAgICAgICAgICAgPHNwYW4+IOKAlCA8L3NwYW4+XG4gICAgICAgICAgICAgIHtwb3N0LmRhdGV9LCA8YSBocmVmPXtwb3N0LmZiTGlua30+0L7QsdGB0YPQttC00LXQvdC40LUg0LIgRmFjZWJvb2s8L2E+XG4gICAgICAgICAgICA8L3NwYW4+XG4gICAgICAgICAgICA8YnIgLz5cbiAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT1cImRlc2NyaXB0aW9uXCI+e3Bvc3QuZGVzY3JpcHRpb259PC9zcGFuPlxuICAgICAgICA8L2xpPlxuICAgICAgKSl9XG4gIDwvdWw+XG4gIDxzdHlsZSBqc3g+e2BcbiAgICBsaSB7XG4gICAgICBmb250LXNpemU6IDIwcHg7XG4gICAgfVxuICAgIGEge1xuICAgICAgdGV4dC1kZWNvcmF0aW9uOiBub25lO1xuICAgICAgZm9udC13ZWlnaHQ6IGJvbGQ7XG4gICAgICBjb2xvcjogI2QwNzA3MDtcbiAgICB9XG4gICAgYTpob3ZlciB7XG4gICAgICBjb2xvcjogI2YwODA4MDtcbiAgICB9XG4gICAgYTp2aXNpdGVkIHtcbiAgICAgIGNvbG9yOiAjYmJiO1xuICAgfVxuICAgIC5wb3N0SW5mbyB7XG4gICAgICAgIGZvbnQtc2l6ZTogMTRweDtcbiAgICB9XG4gICAgLnBvc3RJbmZvIGEge1xuICAgICAgZm9udC13ZWlnaHQ6IG5vcm1hbDtcbiAgICB9XG4gICAgLmRlc2NyaXB0aW9uIHtcbiAgICAgICAgbWFyZ2luLXRvcDogNXB4O1xuICAgICAgICBmb250LXNpemU6IDE0cHg7XG4gICAgfVxuICBgfTwvc3R5bGU+XG48L2Rpdj5cbiJdfQ== */\n/*@ sourceURL=/Users/kirillrogovoy/Projects/blog.rogovoy.me/components/post-list.js */",
+    styleId: "1396706753",
+    css: "li.jsx-1396706753{font-size:20px;}.postInfo.jsx-1396706753{font-size:14px;}.postInfo.jsx-1396706753 a.jsx-1396706753{font-weight:normal;}.description.jsx-1396706753{margin-top:5px;font-size:14px;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9raXJpbGxyb2dvdm95L1Byb2plY3RzL2Jsb2cucm9nb3ZveS5tZS9jb21wb25lbnRzL3Bvc3QtbGlzdC5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFrQmMsQUFHc0IsQUFHRSxBQUdFLEFBR0YsZUFSbkIsQUFHQSxBQU1tQixJQUhuQixXQUlBIiwiZmlsZSI6Ii9Vc2Vycy9raXJpbGxyb2dvdm95L1Byb2plY3RzL2Jsb2cucm9nb3ZveS5tZS9jb21wb25lbnRzL3Bvc3QtbGlzdC5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBMaW5rIGZyb20gJ25leHQvbGluaydcblxuZXhwb3J0IGRlZmF1bHQgKHsgcG9zdHMgfSkgPT4gPGRpdiBzdHlsZT17e21hcmdpbjogJzAgYXV0byd9fT5cbiAgPHVsPlxuICAgICAge3Bvc3RzLm1hcChwb3N0ID0+IChcbiAgICAgICAgPGxpIGtleT17cG9zdC5pZH0gc3R5bGU9e3ttYXJnaW5Cb3R0b206ICczMHB4JywgbGlzdFN0eWxlVHlwZTogJ3NxdWFyZSd9fT5cbiAgICAgICAgICAgIDxMaW5rIGhyZWY9e2AvJHtwb3N0LmlkfWB9PlxuICAgICAgICAgICAgICA8YSBjbGFzc05hbWU9XCJwb3N0TGlua1wiPntwb3N0LnRpdGxlfTwvYT5cbiAgICAgICAgICAgIDwvTGluaz5cbiAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT1cInBvc3RJbmZvXCI+XG4gICAgICAgICAgICAgIDxzcGFuPiDigJQgPC9zcGFuPlxuICAgICAgICAgICAgICB7cG9zdC5kYXRlfSwgPGEgaHJlZj17cG9zdC5mYkxpbmt9PtC+0LHRgdGD0LbQtNC10L3QuNC1INCyIEZhY2Vib29rPC9hPlxuICAgICAgICAgICAgPC9zcGFuPlxuICAgICAgICAgICAgPGJyIC8+XG4gICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9XCJkZXNjcmlwdGlvblwiPntwb3N0LmRlc2NyaXB0aW9ufTwvc3Bhbj5cbiAgICAgICAgPC9saT5cbiAgICAgICkpfVxuICA8L3VsPlxuICA8c3R5bGUganN4PntgXG4gICAgbGkge1xuICAgICAgZm9udC1zaXplOiAyMHB4O1xuICAgIH1cbiAgICAucG9zdEluZm8ge1xuICAgICAgICBmb250LXNpemU6IDE0cHg7XG4gICAgfVxuICAgIC5wb3N0SW5mbyBhIHtcbiAgICAgIGZvbnQtd2VpZ2h0OiBub3JtYWw7XG4gICAgfVxuICAgIC5kZXNjcmlwdGlvbiB7XG4gICAgICAgIG1hcmdpbi10b3A6IDVweDtcbiAgICAgICAgZm9udC1zaXplOiAxNHB4O1xuICAgIH1cbiAgYH08L3N0eWxlPlxuPC9kaXY+XG4iXX0= */\n/*@ sourceURL=/Users/kirillrogovoy/Projects/blog.rogovoy.me/components/post-list.js */",
     __self: this
   }));
 });
@@ -489,7 +491,7 @@ var _jsxFileName = "/Users/kirillrogovoy/Projects/blog.rogovoy.me/components/pos
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("title", {
-    className: "jsx-840819552",
+    className: "jsx-1634066694",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 11
@@ -498,7 +500,7 @@ var _jsxFileName = "/Users/kirillrogovoy/Projects/blog.rogovoy.me/components/pos
   }, meta.title), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("meta", {
     name: "description",
     content: meta.description,
-    className: "jsx-840819552",
+    className: "jsx-1634066694",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 12
@@ -507,7 +509,7 @@ var _jsxFileName = "/Users/kirillrogovoy/Projects/blog.rogovoy.me/components/pos
   }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("meta", {
     name: "keywords",
     content: meta.tags.join(','),
-    className: "jsx-840819552",
+    className: "jsx-1634066694",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 13
@@ -522,69 +524,127 @@ var _jsxFileName = "/Users/kirillrogovoy/Projects/blog.rogovoy.me/components/pos
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
     style: {
-      color: '#777'
+      color: '#777',
+      textDecoration: 'underline',
+      fontWeight: '300'
     },
-    className: "jsx-840819552",
+    className: "jsx-1634066694",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 16
     },
     __self: this
-  }, "\u041D\u0430\u0437\u0430\u0434")), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("h1", {
+  }, "\u041D\u0430\u0437\u0430\u0434")), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
     style: {
-      color: '#d07070'
+      marginBottom: '50px'
     },
-    className: "jsx-840819552",
+    className: "jsx-1634066694",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 18
     },
     __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("h1", {
+    style: {
+      color: '#d07070',
+      fontSize: '42px',
+      letterSpacing: '-0.63px',
+      marginBottom: '10px'
+    },
+    className: "jsx-1634066694",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 21
+    },
+    __self: this
   }, meta.title), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
+    style: {
+      fontSize: '17px'
+    },
+    className: "jsx-1634066694",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 29
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("span", {
+    className: "jsx-1634066694",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 30
+    },
+    __self: this
+  }, meta.date), ", ", react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
+    style: {
+      fontWeight: '300'
+    },
+    href: meta.fbLink,
+    className: "jsx-1634066694",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 30
+    },
+    __self: this
+  }, "\u043E\u0431\u0441\u0443\u0436\u0434\u0435\u043D\u0438\u0435 \u0432 Facebook"))), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
     dangerouslySetInnerHTML: {
       __html: content
     },
-    className: "jsx-840819552" + " " + "markdown",
+    className: "jsx-1634066694" + " " + "markdown",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 22
+      lineNumber: 34
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_separator__WEBPACK_IMPORTED_MODULE_6__[/* default */ "a"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 24
+      lineNumber: 36
     },
     __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
-    className: "jsx-840819552",
+  }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(OtherPosts, {
+    currentPostId: meta.id,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 26
+      lineNumber: 38
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("h3", {
-    className: "jsx-840819552",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 27
-    },
-    __self: this
-  }, "\u0414\u0440\u0443\u0433\u0438\u0435 \u0441\u0442\u0430\u0442\u044C\u0438:"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_post_list__WEBPACK_IMPORTED_MODULE_5__[/* default */ "a"], {
-    posts: Object(_post__WEBPACK_IMPORTED_MODULE_7__[/* getRandomPosts */ "b"])(3).filter(function (post) {
-      return post.id !== meta.id;
-    }),
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 28
-    },
-    __self: this
-  })), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
-    styleId: "840819552",
-    css: "\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9raXJpbGxyb2dvdm95L1Byb2plY3RzL2Jsb2cucm9nb3ZveS5tZS9jb21wb25lbnRzL3Bvc3QuanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBOEJ1QiIsImZpbGUiOiIvVXNlcnMva2lyaWxscm9nb3ZveS9Qcm9qZWN0cy9ibG9nLnJvZ292b3kubWUvY29tcG9uZW50cy9wb3N0LmpzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IExpbmsgZnJvbSAnbmV4dC9saW5rJ1xuaW1wb3J0IEhlYWQgZnJvbSAnbmV4dC9oZWFkJ1xuaW1wb3J0IExheW91dCBmcm9tICcuLi9jb21wb25lbnRzL2xheW91dCdcbmltcG9ydCBQb3N0TGlzdCBmcm9tICcuLi9jb21wb25lbnRzL3Bvc3QtbGlzdCdcbmltcG9ydCBTZXBhcmF0b3IgZnJvbSAnLi9zZXBhcmF0b3InXG5pbXBvcnQgeyBnZXRSYW5kb21Qb3N0cyB9IGZyb20gJy4uL3Bvc3QnXG5cbmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uICh7IG1ldGEsIGNvbnRlbnQgfSkge1xuICByZXR1cm4gPExheW91dD5cbiAgICA8SGVhZD5cbiAgICAgIDx0aXRsZT57bWV0YS50aXRsZX08L3RpdGxlPlxuICAgICAgPG1ldGEgbmFtZT1cImRlc2NyaXB0aW9uXCIgY29udGVudD17bWV0YS5kZXNjcmlwdGlvbn0gLz5cbiAgICAgIDxtZXRhIG5hbWU9XCJrZXl3b3Jkc1wiIGNvbnRlbnQ9e21ldGEudGFncy5qb2luKCcsJyl9IC8+XG4gICAgPC9IZWFkPlxuICAgIDxMaW5rIGhyZWY9XCIvXCI+XG4gICAgICA8YSBzdHlsZT17e2NvbG9yOiAnIzc3Nyd9fT7QndCw0LfQsNC0PC9hPlxuICAgIDwvTGluaz5cbiAgICA8aDEgc3R5bGU9e3tjb2xvcjogJyNkMDcwNzAnfX0+XG4gICAgICB7bWV0YS50aXRsZX1cbiAgICA8L2gxPlxuXG4gICAgPGRpdiBjbGFzc05hbWU9XCJtYXJrZG93blwiIGRhbmdlcm91c2x5U2V0SW5uZXJIVE1MPXt7X19odG1sOiBjb250ZW50fX0+PC9kaXY+XG5cbiAgICA8U2VwYXJhdG9yIC8+XG5cbiAgICA8ZGl2PlxuICAgICAgPGgzPtCU0YDRg9Cz0LjQtSDRgdGC0LDRgtGM0Lg6PC9oMz5cbiAgICAgIDxQb3N0TGlzdCBwb3N0cz17Z2V0UmFuZG9tUG9zdHMoMykuZmlsdGVyKHBvc3QgPT4gcG9zdC5pZCAhPT0gbWV0YS5pZCl9IC8+XG4gICAgPC9kaXY+XG5cbiAgICA8c3R5bGUganN4IGdsb2JhbD57YFxuICAgICAgLm1hcmtkb3duIHtcbiAgICAgIH1cbiAgICBgfTwvc3R5bGU+XG4gIDwvTGF5b3V0PlxufVxuIl19 */\n/*@ sourceURL=/Users/kirillrogovoy/Projects/blog.rogovoy.me/components/post.js */",
+  }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
+    styleId: "1634066694",
+    css: ".markdown{font-size:21px;-webkit-letter-spacing:0.2px;-moz-letter-spacing:0.2px;-ms-letter-spacing:0.2px;letter-spacing:0.2px;line-height:30px;text-align:start;}.markdown img{width:100%;margin-top:15px;}.markdown h2{font-size:34px;line-height:39px;margin:56px 0 0 0;}.markdown h2+p{margin-top:13px;}.markdown p{margin:29px 0 0 0;}.markdown ul,.markdown ol{margin-top:5px;}.markdown li{list-style-type:square;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9raXJpbGxyb2dvdm95L1Byb2plY3RzL2Jsb2cucm9nb3ZveS5tZS9jb21wb25lbnRzL3Bvc3QuanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBdUN1QixBQUd3QixBQU1KLEFBSUksQUFLQyxBQUdFLEFBR0gsQUFHUSxXQWpCUCxJQU5LLEFBVUosQUFXbkIsQ0FOQSxFQUdBLEtBTUEsSUFqQkEsS0FJb0Isa0JBQ3BCLGtFQVhtQixpQkFDQSxpQkFDbkIiLCJmaWxlIjoiL1VzZXJzL2tpcmlsbHJvZ292b3kvUHJvamVjdHMvYmxvZy5yb2dvdm95Lm1lL2NvbXBvbmVudHMvcG9zdC5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBMaW5rIGZyb20gJ25leHQvbGluaydcbmltcG9ydCBIZWFkIGZyb20gJ25leHQvaGVhZCdcbmltcG9ydCBMYXlvdXQgZnJvbSAnLi4vY29tcG9uZW50cy9sYXlvdXQnXG5pbXBvcnQgUG9zdExpc3QgZnJvbSAnLi4vY29tcG9uZW50cy9wb3N0LWxpc3QnXG5pbXBvcnQgU2VwYXJhdG9yIGZyb20gJy4vc2VwYXJhdG9yJ1xuaW1wb3J0IHsgZ2V0UmFuZG9tUG9zdHMgfSBmcm9tICcuLi9wb3N0J1xuXG5leHBvcnQgZGVmYXVsdCBmdW5jdGlvbiAoeyBtZXRhLCBjb250ZW50IH0pIHtcbiAgcmV0dXJuIDxMYXlvdXQ+XG4gICAgPEhlYWQ+XG4gICAgICA8dGl0bGU+e21ldGEudGl0bGV9PC90aXRsZT5cbiAgICAgIDxtZXRhIG5hbWU9XCJkZXNjcmlwdGlvblwiIGNvbnRlbnQ9e21ldGEuZGVzY3JpcHRpb259IC8+XG4gICAgICA8bWV0YSBuYW1lPVwia2V5d29yZHNcIiBjb250ZW50PXttZXRhLnRhZ3Muam9pbignLCcpfSAvPlxuICAgIDwvSGVhZD5cbiAgICA8TGluayBocmVmPVwiL1wiPlxuICAgICAgPGEgc3R5bGU9e3tjb2xvcjogJyM3NzcnLCB0ZXh0RGVjb3JhdGlvbjogJ3VuZGVybGluZScsIGZvbnRXZWlnaHQ6ICczMDAnfX0+0J3QsNC30LDQtDwvYT5cbiAgICA8L0xpbms+XG4gICAgPGRpdiBzdHlsZT17e1xuICAgICAgbWFyZ2luQm90dG9tOiAnNTBweCdcbiAgICB9fT5cbiAgICAgIDxoMSBzdHlsZT17e1xuICAgICAgICBjb2xvcjogJyNkMDcwNzAnLFxuICAgICAgICBmb250U2l6ZTogJzQycHgnLFxuICAgICAgICBsZXR0ZXJTcGFjaW5nOiAnLTAuNjNweCcsXG4gICAgICAgIG1hcmdpbkJvdHRvbTogJzEwcHgnXG4gICAgICB9fT5cbiAgICAgICAge21ldGEudGl0bGV9XG4gICAgICA8L2gxPlxuICAgICAgPGRpdiBzdHlsZT17e2ZvbnRTaXplOiAnMTdweCd9fT5cbiAgICAgICAgPHNwYW4+e21ldGEuZGF0ZX08L3NwYW4+LCA8YSBzdHlsZT17e2ZvbnRXZWlnaHQ6ICczMDAnfX0gaHJlZj17bWV0YS5mYkxpbmt9PtC+0LHRgdGD0LbQtNC10L3QuNC1INCyIEZhY2Vib29rPC9hPlxuICAgICAgPC9kaXY+XG4gICAgPC9kaXY+XG5cbiAgICA8ZGl2IGNsYXNzTmFtZT1cIm1hcmtkb3duXCIgZGFuZ2Vyb3VzbHlTZXRJbm5lckhUTUw9e3tfX2h0bWw6IGNvbnRlbnR9fT48L2Rpdj5cblxuICAgIDxTZXBhcmF0b3IgLz5cblxuICAgIDxPdGhlclBvc3RzIGN1cnJlbnRQb3N0SWQ9e21ldGEuaWR9IC8+XG5cbiAgICA8c3R5bGUganN4IGdsb2JhbD57YFxuICAgICAgLm1hcmtkb3duIHtcbiAgICAgICAgZm9udC1zaXplOiAyMXB4O1xuICAgICAgICBsZXR0ZXItc3BhY2luZzogMC4ycHg7XG4gICAgICAgIGxpbmUtaGVpZ2h0OiAzMHB4O1xuICAgICAgICB0ZXh0LWFsaWduOiBzdGFydDtcbiAgICAgIH1cbiAgICAgIC5tYXJrZG93biBpbWcge1xuICAgICAgICB3aWR0aDogMTAwJTtcbiAgICAgICAgbWFyZ2luLXRvcDogMTVweDtcbiAgICAgIH1cbiAgICAgIC5tYXJrZG93biBoMiB7XG4gICAgICAgIGZvbnQtc2l6ZTogMzRweDtcbiAgICAgICAgbGluZS1oZWlnaHQ6IDM5cHg7XG4gICAgICAgIG1hcmdpbjogNTZweCAwIDAgMDtcbiAgICAgIH1cbiAgICAgIC5tYXJrZG93biBoMiArIHAge1xuICAgICAgICBtYXJnaW4tdG9wOiAxM3B4O1xuICAgICAgfVxuICAgICAgLm1hcmtkb3duIHAge1xuICAgICAgICBtYXJnaW46IDI5cHggMCAwIDA7XG4gICAgICB9XG4gICAgICAubWFya2Rvd24gdWwsIC5tYXJrZG93biBvbCB7XG4gICAgICAgIG1hcmdpbi10b3A6IDVweDtcbiAgICAgIH1cbiAgICAgIC5tYXJrZG93biBsaSB7XG4gICAgICAgIGxpc3Qtc3R5bGUtdHlwZTogc3F1YXJlO1xuICAgICAgfVxuICAgIGB9PC9zdHlsZT5cbiAgPC9MYXlvdXQ+XG59XG5cbmZ1bmN0aW9uIE90aGVyUG9zdHMocHJvcHMpIHtcbiAgY29uc3QgcG9zdHMgPSBnZXRSYW5kb21Qb3N0cygzKS5maWx0ZXIocG9zdCA9PiBwb3N0LmlkICE9PSBwcm9wcy5jdXJyZW50UG9zdElkKVxuICBpZiAocG9zdHMubGVuZ3RoID09PSAwKSB7XG4gICAgcmV0dXJuIG51bGxcbiAgfVxuICByZXR1cm4gPGRpdj5cbiAgICA8aDM+0JTRgNGD0LPQuNC1INGB0YLQsNGC0YzQuDo8L2gzPlxuICAgIDxQb3N0TGlzdCBwb3N0cz17cG9zdHN9IC8+XG4gIDwvZGl2PlxufVxuIl19 */\n/*@ sourceURL=/Users/kirillrogovoy/Projects/blog.rogovoy.me/components/post.js */",
     __self: this
   }));
 });
+
+function OtherPosts(props) {
+  var posts = Object(_post__WEBPACK_IMPORTED_MODULE_7__[/* getRandomPosts */ "b"])(3).filter(function (post) {
+    return post.id !== props.currentPostId;
+  });
+
+  if (posts.length === 0) {
+    return null;
+  }
+
+  return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 77
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("h3", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 78
+    },
+    __self: this
+  }, "\u0414\u0440\u0443\u0433\u0438\u0435 \u0441\u0442\u0430\u0442\u044C\u0438:"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_post_list__WEBPACK_IMPORTED_MODULE_5__[/* default */ "a"], {
+    posts: posts,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 79
+    },
+    __self: this
+  }));
+}
 
 /***/ }),
 
@@ -607,9 +667,9 @@ var _jsxFileName = "/Users/kirillrogovoy/Projects/blog.rogovoy.me/components/sep
       height: '1px',
       border: '0px',
       borderTop: '1px solid #ddd',
-      margin: '45px 0',
-      width: '120%',
-      marginLeft: '-10%'
+      margin: '30px auto 40px auto',
+      width: '70%' // marginLeft: '-10%',
+
     },
     __source: {
       fileName: _jsxFileName,
@@ -12194,13 +12254,12 @@ var _jsxFileName = "/Users/kirillrogovoy/Projects/blog.rogovoy.me/pages/index.js
 /*!*****************!*\
   !*** ./post.js ***!
   \*****************/
-/*! exports provided: posts, renderPost, getAllPosts, getRandomPosts */
-/*! exports used: getAllPosts, getRandomPosts */
+/*! exports provided: renderPost, getAllPosts, getRandomPosts */
+/*! exports used: getAllPosts, getRandomPosts, renderPost */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* unused harmony export posts */
-/* unused harmony export renderPost */
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "c", function() { return renderPost; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return getAllPosts; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return getRandomPosts; });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
@@ -12219,20 +12278,12 @@ function _arrayWithoutHoles(arr) { if (Array.isArray(arr)) { for (var i = 0, arr
 
 
 var posts = [{
-  id: '3-knigi',
-  date: '09.11.2018',
-  title: '3 книги прочитать всем',
-  description: 'Развивайся епта',
-  tags: ['a', 'b'],
-  fbLink: 'http://example.com'
-}, {
   id: 'rabota-za-kompiuterom-stoya',
   date: '05.12.2018',
   title: 'Работать за компьютером стоя: зачем и как',
-  description: 'Почему работать сидя – вредно и какие есть решения проблемы',
+  description: 'Почему работать сидя – вредно и что можно сделать',
   tags: [],
-  fbLink: '#',
-  isDraft: true
+  fbLink: '#'
 }];
 function renderPost(id, content) {
   var meta = posts.find(function (a) {
@@ -12243,7 +12294,7 @@ function renderPost(id, content) {
     content: content,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 25
+      lineNumber: 16
     },
     __self: this
   });
@@ -12272,7 +12323,7 @@ function shuffle(b) {
 
 /***/ }),
 
-/***/ 3:
+/***/ 4:
 /*!******************************!*\
   !*** multi ./pages/index.js ***!
   \******************************/
@@ -12299,5 +12350,5 @@ module.exports = dll_52339ab353c8e0db40da;
 
 /***/ })
 
-},[[3,"static/runtime/webpack.js"]]]));;
+},[[4,"static/runtime/webpack.js"]]]));;
 //# sourceMappingURL=index.js.map
