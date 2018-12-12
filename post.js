@@ -3,7 +3,7 @@ import Post from './components/post'
 const posts = [
   {
     id: 'rabota-za-kompiuterom-stoya',
-    date: '05.12.2018',
+    date: '12.12.2018',
     title: 'Работать за компьютером стоя: зачем и как',
     description: 'Почему работать сидя – вредно и что можно сделать',
     tags: [],
