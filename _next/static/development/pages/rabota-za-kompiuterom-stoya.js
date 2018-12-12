@@ -12272,7 +12272,7 @@ var posts = [{
   title: 'Работать за компьютером стоя: зачем и как',
   description: 'Почему работать сидя – вредно и что можно сделать',
   tags: [],
-  fbLink: '#'
+  fbLink: 'https://www.facebook.com/permalink.php?story_fbid=537623056710013&id=100013869703829'
 }];
 function renderPost(id, content) {
   var meta = posts.find(function (a) {
