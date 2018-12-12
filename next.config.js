@@ -1,6 +1,7 @@
 const withBundleAnalyzer = require("@zeit/next-bundle-analyzer");
+const withImages = require('next-images')
 
-module.exports = withBundleAnalyzer({
+module.exports = withImages(withBundleAnalyzer({
   webpack(config) {
     config.optimization.usedExports = true
     config.module.rules.push({
@@ -29,4 +30,4 @@ module.exports = withBundleAnalyzer({
       reportFilename: '../bundles/client.html'
     }
   }
-})
+}))

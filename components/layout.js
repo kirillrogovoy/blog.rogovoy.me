@@ -9,24 +9,31 @@ export default (props) => <div style={{maxWidth: '90%', width: '700px', margin: 
     <GoogleAnalytics />
   </Head>
   <Normalize />
-  <header style={{padding: '50px 0 0', maxWidth: '90%', margin: 'auto'}}>
+  <header style={{padding: '0', maxWidth: '90%', margin: 'auto'}}>
       <Link href="/">
-        <h1 style={{
+        <span style={{
           textAlign: 'center',
-          marginLeft: '27px',
-          marginBottom: '6px',
+          display: 'block',
+          margin: '50px 0 5px 39px',
           cursor: 'pointer',
-          fontSize: '40px',
+          fontSize: '50px',
+          fontWeight: '300',
         }}>
             Кирилл Роговой
               <a target="_blank" href="https://www.facebook.com/profile.php?id=100013869703829">
                 <FbSvg />
               </a>
-        </h1>
+        </span>
       </Link>
-      <h4 style={{display: 'block', margin: '0 auto', textAlign: 'center', fontSize: '18px', fontWeight: '300'}}>
+      <span style={{
+        display: 'block',
+        margin: '0 auto',
+        textAlign: 'center',
+        fontSize: '18px',
+        fontWeight: '300'
+      }}>
         О жизни, путешествиях, работе и личном росте
-      </h4>
+      </span>
   </header>
 
   <Separator />
@@ -37,7 +44,7 @@ export default (props) => <div style={{maxWidth: '90%', width: '700px', margin: 
 
   <style jsx global>{`
     body {
-      @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,700');
+      @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,700&subset=cyrillic');
       font-family: 'Open Sans', sans-serif;
       animation        : fadein 0.5s linear;
 
@@ -45,6 +52,17 @@ export default (props) => <div style={{maxWidth: '90%', width: '700px', margin: 
       font-size: 18px;
       font-weight: 300;
     }
+    a {
+      text-decoration: none;
+      font-weight: bold;
+      color: #d07070;
+    }
+    a:hover {
+      color: #f08080;
+    }
+    a:visited {
+      color: #bbb;
+   }
     @keyframes fadein {
         0% {opacity:0;}
         100% {opacity:1;}
@@ -54,9 +72,9 @@ export default (props) => <div style={{maxWidth: '90%', width: '700px', margin: 
 
 function FbSvg() {
   const style = {
-    width: '24px',
-    marginLeft: '8px',
-    marginBottom: '12px',
+    width: '30px',
+    marginLeft: '9px',
+    marginBottom: '18px',
     enableBackground: 'new 0 0 408.788 408.788',
   }
 

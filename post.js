@@ -1,22 +1,13 @@
 import Post from './components/post'
 
-export const posts = [
-  {
-    id: '3-knigi',
-    date: '09.11.2018',
-    title: '3 книги прочитать всем',
-    description: 'Развивайся епта',
-    tags: ['a', 'b'],
-    fbLink: 'http://example.com',
-  },
+const posts = [
   {
     id: 'rabota-za-kompiuterom-stoya',
     date: '05.12.2018',
     title: 'Работать за компьютером стоя: зачем и как',
-    description: 'Почему работать сидя – вредно и какие есть решения проблемы',
+    description: 'Почему работать сидя – вредно и что можно сделать',
     tags: [],
     fbLink: '#',
-    isDraft: true,
   },
 ]
 
