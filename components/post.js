@@ -9,7 +9,10 @@ export default function ({ meta, content }) {
   return <Layout>
     <Head>
       <title>{meta.title}</title>
+      <meta name="og:title" content={meta.title} />
+      <meta name="og:image" content={`/static/${meta.id}.jpg`} />
       <meta name="description" content={meta.description} />
+      <meta name="og:description" content={meta.description} />
       <meta name="keywords" content={meta.tags.join(',')} />
     </Head>
     <Link href="/">
